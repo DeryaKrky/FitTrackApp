@@ -28,7 +28,7 @@
 
 
 
-## English
+# FitTrack
 
 **FitTrack** is a fitness app that allows you to explore various exercises and keep track of your favorite workouts.
 
